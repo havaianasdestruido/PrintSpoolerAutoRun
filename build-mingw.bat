@@ -1,0 +1,1 @@
+g++ -O2 -municode -mwindows PrintSpoolerAutoRun.cpp -o PrintSpoolerAutoRun.exe -ladvapi32

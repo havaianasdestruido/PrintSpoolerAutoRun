@@ -1,0 +1,1 @@
+cl /O2 /EHsc /DUNICODE /D_UNICODE PrintSpoolerAutoRun.cpp /link /SUBSYSTEM:WINDOWS Advapi32.lib
