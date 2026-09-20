@@ -1,3 +1,14 @@
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=havaianasdestruido%2FPrintSpoolerAutoRun&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=havaianasdestruido/PrintSpoolerAutoRun&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=havaianasdestruido/PrintSpoolerAutoRun&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=havaianasdestruido/PrintSpoolerAutoRun&type=date&legend=top-left" />
+ </picture>
+</a>
+
  --- PrintSpoolerAutoRun.cpp ---
 
 Simple WIN32 tool for "fixing" (manually starting) Windows printer service (net start spooler).
